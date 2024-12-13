@@ -41,8 +41,11 @@ or<br>
     (2a3)Activate the Virtual Environment<br>
     ```bash
     .\myenv\Scripts\activate
-    ```<br>
+    ```
+    <br>
+    
     When the virtual environment is activated, your terminal prompt should change to show the virtual environment name, like this:<br>
+    
     ```bash
     (myenv) $
     ```<br>
