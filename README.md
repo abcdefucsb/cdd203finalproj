@@ -29,31 +29,31 @@ or<br>
     python --version
     or
     python3 --version
-    ```
-    I used python 3.13.0
-    (2a2)Create a Virtual Environment
-    In your project directory (or wherever you want the virtual environment), run the following command:
+    ```<br>
+    I used python 3.13.0<br>
+    (2a2)Create a Virtual Environment<br>
+    In your project directory (or wherever you want the virtual environment), run the following command:<br>
     ```bash
     python -m venv myenv
-    ```
-    myenv is the name of the virtual environment. You can replace it with any name you prefer.
-    This will create a folder named myenv in your project directory containing the virtual environment.
-    (2a3)Activate the Virtual Environment
+    ```<br>
+    myenv is the name of the virtual environment. You can replace it with any name you prefer.<br>
+    This will create a folder named myenv in your project directory containing the virtual environment.<br>
+    (2a3)Activate the Virtual Environment<br>
     ```bash
     .\myenv\Scripts\activate
-    ```
-    When the virtual environment is activated, your terminal prompt should change to show the virtual environment name, like this:
+    ```<br>
+    When the virtual environment is activated, your terminal prompt should change to show the virtual environment name, like this:<br>
     ```bash
     (myenv) $
-    ```
+    ```<br>
 
 
 
     
-and
-(2b)Install packages: use the command
+and<br>
+(2b)Install packages: use the command<br>
 ```bash
 !pip install pytdc xgboost rdkit scikit-learn pandas numpy
-```
-In this way, pytdc-1.1.1, xgboost-2.1.3, rdkit-2024.3.6, scikit-learn-1.5.2, pandas-2.2.2, and numpy-1.26.4 are installed.
+```<br>
+In this way, pytdc-1.1.1, xgboost-2.1.3, rdkit-2024.3.6, scikit-learn-1.5.2, pandas-2.2.2, and numpy-1.26.4 are installed.<br>
 
