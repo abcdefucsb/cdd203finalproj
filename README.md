@@ -3,8 +3,13 @@ To Block or Not To Block:
 Predicting hERG Channel Blockade with Machine Learning: A Data-Driven Approach
 
 
-## Description
-A brief description of what your project does.
+## Data
+Data can be imported with python script
+from tdc.single_pred import Tox
+data = Tox(name = 'hERG_Karim')
+split = data.get_split()
+
+Data can also be accessed in data/herg_karim.tab
 
 ## Features
 - Feature 1
