@@ -68,7 +68,7 @@ When the virtual environment is activated, your terminal prompt should change to
     ```bash
     (myenv) $
     ```
-    <br>
+    
 
 
 
