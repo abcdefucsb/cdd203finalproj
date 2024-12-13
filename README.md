@@ -30,15 +30,14 @@ or<br>
     or
     python3 --version
     ```
-   
-    
     I used python 3.13.0
+    
     (2a2)Create a Virtual Environment<br>
     In your project directory (or wherever you want the virtual environment), run the following command:
     
     ```bash
     python -m venv myenv
-    ```<br>
+    ```
     myenv is the name of the virtual environment. You can replace it with any name you prefer.<br>
     This will create a folder named myenv in your project directory containing the virtual environment.<br>
     (2a3)Activate the Virtual Environment<br>
