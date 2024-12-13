@@ -9,7 +9,7 @@ Data can be imported with python script
 from tdc.single_pred import Tox
 data = Tox(name = 'hERG_Karim')
 split = data.get_split()
-
+```bash
 Data can also be accessed in data/herg_karim.tab
 
 ## Features
