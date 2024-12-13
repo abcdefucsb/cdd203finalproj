@@ -29,7 +29,8 @@ or<br>
     python --version
     or
     python3 --version
-    ```<br>
+    ```
+    
     I used python 3.13.0<br>
     (2a2)Create a Virtual Environment<br>
     In your project directory (or wherever you want the virtual environment), run the following command:<br>
