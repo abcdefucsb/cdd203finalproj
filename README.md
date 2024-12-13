@@ -31,8 +31,8 @@ or<br>
     python3 --version
     ```
     I used python 3.13.0
-    
-    (2a2)Create a Virtual Environment<br>
+    <br>
+    (2a2)Create a Virtual Environment
     In your project directory (or wherever you want the virtual environment), run the following command:
     
     ```bash
