@@ -5,6 +5,7 @@ Predicting hERG Channel Blockade with Machine Learning: A Data-Driven Approach
 
 ## Data
 Data can be imported with python script
+```bash
 from tdc.single_pred import Tox
 data = Tox(name = 'hERG_Karim')
 split = data.get_split()
