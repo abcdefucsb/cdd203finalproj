@@ -20,12 +20,11 @@ Select Download ZIP from the dropdown.
 The repository will be downloaded as a ZIP file. You can then unzip it to access the contents.
 
 ## Set Up Virtual Environment & Install Packages
-(1)Recommened: Run the python script, using Google Colab
-or
-(2a) Set up virtual environment: 
-
-    (2a1)Install Python (if not already installed)
-    First, make sure Python is installed on your system. You can check if Python is installed by running the following command in your terminal or command prompt:
+(1)Recommened: Run the python script, using Google Colab<br>
+or<br>
+(2a) Set up virtual environment: <br>
+    (2a1)Install Python (if not already installed)<br>
+    First, make sure Python is installed on your system. You can check if Python is installed by running the following command in your terminal or command prompt:<br>
     ```bash
     python --version
     or
