@@ -13,11 +13,11 @@ split = data.get_split()
 Data can also be accessed in data/herg_karim.tab
 
 ## Download Repo
-Download as a ZIP file (No Git required)
-Go to the repository page on GitHub.
-Click the green Code button located above the file list.
-Select Download ZIP from the dropdown.
-The repository will be downloaded as a ZIP file. You can then unzip it to access the contents.
+Download as a ZIP file (No Git required)<br>
+Go to the repository page on GitHub.<br>
+Click the green Code button located above the file list.<br>
+Select Download ZIP from the dropdown.<br>
+The repository will be downloaded as a ZIP file. You can then unzip it to access the contents.<br>
 
 ## Set Up Virtual Environment & Install Packages
 (1)Recommened: Run the python script, using Google Colab<br>
